@@ -1,0 +1,2 @@
+# newjenkinsdemo
+CICD template
